@@ -1,7 +1,7 @@
 # Keycheck
-[Keycheck binary from here](https://github.com/sonyxperiadev/device-sony-common-init/tree/master/keycheck)
-Modified Android.mk for static compiling
-Added and modified build script by osm0sis for easy compiling
+[Keycheck binary from here](https://github.com/sonyxperiadev/device-sony-common-init/tree/master/keycheck)<br/>
+Modified Android.mk for static compiling<br/>
+Added and modified build script by osm0sis for easy compiling<br/>
 
 ## Usage
 git clone <br/>
