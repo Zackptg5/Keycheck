@@ -22,7 +22,7 @@ if [ ! "$APP_ABI" ]; then
   APP_ABI=armeabi;
 fi;
 if [ ! "$APP_PLATFORM" ]; then
-  APP_PLATFORM=android-21;
+  APP_PLATFORM=android-17;
 fi;
 
 # Set up Android NDK
